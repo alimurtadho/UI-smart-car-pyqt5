@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>circle.png</file>
+    <file>half_of_circle_outline_right.png</file>
+    <file>half_of_circle_outline.png</file>
+  </qresource>
+</RCC>
